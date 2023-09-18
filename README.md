@@ -5,6 +5,7 @@
 | V2.0 | 2023/09/18 | 修改版號V2.0        |
 | V2.1 | 2023/09/18 | 新增gg_der()功能    |
 |      | 2023/09/18 | 修正(.md)註解       |
+|      | 2023/09/18 | 新增gg_der2()功能   |
 
 
 
@@ -23,7 +24,6 @@
 
 ```c
 
-
 void gg_inin_der(){
 
 	printf("GG IN in Der 2.1\n");
@@ -33,6 +33,12 @@ void gg_super_inin_der(){
 
 	printf("GG Super IN in Der 2.1\n");
 }
+
+void gg_der(){
+
+	printf("GG der\n");
+}
+
 ```
 
 
@@ -42,9 +48,9 @@ void gg_super_inin_der(){
 # 新增功能
 
 ```c
-void gg_der(){
+void gg_der2(){
 
-	printf("GG der\n");
+	printf("GG der 2\n");
 }
 
 ```

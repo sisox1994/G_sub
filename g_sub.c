@@ -16,3 +16,8 @@ void gg_der(){
 
 	printf("GG der\n");
 }
+
+void gg_der2(){
+
+	printf("GG der 2\n");
+}
