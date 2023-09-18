@@ -3,8 +3,7 @@
 | 初版 | 2023/09/18 |                     |
 | V1.1 | 2023/09/18 | 新增 Super inin der |
 | V2.0 | 2023/09/18 | 修改版號V2.0        |
-
-
+| V3.0 | 2023/09/18 | 新增void gg_der     |
 
 [TOC]
 
@@ -28,6 +27,11 @@ void gg_inin_der(){
 
 	printf("GG IN in Der 2.0\n");
 }
+
+void gg_super_inin_der(){
+
+	printf("GG Super IN in Der 2.0\n");
+}
 ```
 
 
@@ -38,9 +42,9 @@ void gg_inin_der(){
 
 ```c
 
-void gg_super_inin_der(){
+void gg_der(){
 
-	printf("GG Super IN in Der 2.0\n");
+	printf("GG 3.0\n");
 }
 ```
 

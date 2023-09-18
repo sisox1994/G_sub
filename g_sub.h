@@ -3,5 +3,6 @@
 
 void gg_inin_der(void);
 void gg_super_inin_der(void);
+void gg_der(void);
 
 #endif // G_SUB_H__
